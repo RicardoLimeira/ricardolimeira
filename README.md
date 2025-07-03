@@ -1,8 +1,11 @@
 ## Olá!, Sou o Ricardo Limeira
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardolimeira&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&dracula_progress=true)
-- 🔭 Hoje Trabalho com Desenvolvimento FullStack ...
-- 🌱 Estudando JavaScript, CSS, HTML & NodeJS ...
+💻 Tecnologias que uso no meu dia a dia:
+
+- Python, SQL, Pandas, Docker, Spark
+- Criação de pipelines ETL, análise de dados e visualizações
+- Armazenamento com bancos relacionais e NoSQL
  
 <div style="display: inline_block"><br>
   <!-- Linguagens -->
